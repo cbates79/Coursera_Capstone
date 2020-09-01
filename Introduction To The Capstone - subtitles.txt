@@ -1,0 +1,32 @@
+Hello everyone, and welcome to the applied data science
+specialization capstone. I'm Naif, a data
+scientist at IBM, and I'll be your
+course instructor. Let me start by
+congratulating you on making it all the
+way to the capstone. By now you must have completed all the other eight courses
+in this specialization, which are: what is
+the data science, tools for data science, data science methodology,
+Python for data science and AI, databases and SQL
+for data science, data analytics with Python, data visualization with Python, and finally, machine
+learning with Python. You will be expected to complete the course in three weeks. In this first week, you will discover your
+project objectives, find your dataset that you will use for this capstone project, and publish your
+dataset on GitHub. In the second week, you will build your machine
+learning solution. In the third week,
+you will finalize your model and be ready
+to submit your work. Let's get started. Let me introduce the context of the capstone project
+through a scenario. To complete capstone,
+you will be working on a case study which is to predict the severity
+of an accident. Say you are driving to another city for work or
+to visit some friends. It is rainy and windy,
+and on the way, you come across a
+terrible traffic jam on the other side of the highway. Long lines of cars barely moving. As you keep driving, police car start appearing from afar shutting down the highway. Oh, it is an accident
+and there's a helicopter transporting the ones involved in the crash to the
+nearest hospital. They must be in
+critical condition for all of this to be happening. Now, wouldn't it be
+great if there is something in place
+that could warn you, given the weather and
+the road conditions about the possibility of you getting into a car accident
+and how severe it would be, so that you would
+drive more carefully or even change your travel
+if you are able to. Well, this is exactly
+what you will be working on in this course.

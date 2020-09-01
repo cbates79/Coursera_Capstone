@@ -1,0 +1,27 @@
+Hello again. Let's use
+our shared data for Seattle city as an example of how to deal with
+the accidents data. The same can be applied to any data set that you might
+use for this capstone. To choose the right data set
+for this capstone project, please go through the
+following reading section called guidance in
+finding a data set. Let's open the CSV file and check what type
+of data we have. The first column colored in
+yellow is the labeled data. The remaining columns have
+different types of attributes. Some or all can be used
+to train the model. You can also find that most of the observations are good to train and test the
+machine learning model. The label for the
+data set is severity, which describes the
+fatality of an accident. You will notice that
+the shared data has unbalanced labels. You should balance the data, otherwise, you will
+create a biased ML model. The following is a list of attributes or features
+that you can use. For good description
+of each attribute, you can refer to the web
+link on the CSV file. You might need to do
+some feature engineering to improve the predictability
+of your model. You can get the data set
+from any open source, such as Open Government
+Data portal, or any research groups that
+allow you to use their data. Here are some good resources
+that can help you find your data set and start building your machine
+learning model. I recommend you go through
+them carefully. Good luck.
