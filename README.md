@@ -1,4 +1,4 @@
-# Coursera Capstone
+# IBM Data Science Capstone Project
 This repository contains the project files for my IBM Data Science Capstone Project.
 The objective of this project is to predict the severity of motor vehicle accidents in Seattle, Washington using machine learning techniques.
 I employ Python in Jupyter notebooks to complete the Data Preparation, Modeling, and Evaluation phases of the Cross-Industry Standard Process for Data Mining.
